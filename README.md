@@ -57,7 +57,7 @@ What difficulty do you need :
 - [ ]  [https://atcoder.jp/contests/typical90/tasks/typical90_ci](https://atcoder.jp/contests/typical90/tasks/typical90_ci)
 ```
 
-上記のような出力が得られるため、これをそのままコピーしてペーストするとがぞのようになる。
+上記のような出力が得られるため、これをそのままコピーしてペーストすると画像のようになる。
 
 <img width="447" alt="image" src="https://user-images.githubusercontent.com/48637189/165781591-df268e6f-8f5a-4777-a834-867e03c0eb26.png">
 
